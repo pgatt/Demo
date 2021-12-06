@@ -12,10 +12,10 @@ License, copyright, and trademark are complex issues. I am not a lawyer, nor an 
 
 Often it can be a good exercise to think through different scenarios, and whether you want to allow or forbid them.
 
-1. Do you want people to use you code to make other VCV modules?
+1. Do you want people to use your code to make other VCV modules?
 2. Do you want someone to make a module that looks exactly like yours?
 3. Do you want someone to take your free code and make a paid product from it?
-4. Are you using any third party code that requires your to license your code in a certain way?
+4. Are you using any third party code that requires you to license your code in a certain way?
 5. If you decide you want to stop making VCV modules, do you want someone else to update your module and submit them back to the VCV library?
 6. Do you want to allow other developers to use your instruction manuals?
 
@@ -48,7 +48,7 @@ A good example is VCV Rack itself. Note that there is a copyright claimed on the
 
 It is difficult to imagine a scenario where you want to grant the right for anyone to re-use your panel designs, and possibly your control designs too. If this is the case, make sure you license does not inadvertently give someone that right. Although if you would like to allow this in the case that you abandon the plugins, you should consider spelling that out in your license.
 
-Regarding 3), again, many developers don’t want someone to take their code and put it in a commercial product. Yet, this has happened in the past and it the main reason that the GNU GPL 3 license is commonly used in modules developed for VCV.
+Regarding 3), again, many developers don’t want someone to take their code and put it in a commercial product. Yet, this has happened in the past and it is the main reason that the GNU GPL 3 license is commonly used in modules developed for VCV.
 
 ## VCV written codes and conventions
 
